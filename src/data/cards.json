@@ -1,0 +1,47 @@
+[
+    {
+      "id": "card-001",
+      "companyId": "company-001",
+      "cardNumber": "4111111111111111",
+      "cardHolder": "John Thomas",
+      "expiryDate": "12/25",
+      "cvv": "123",
+      "status": "active",
+      "limit": 10000,
+      "currency": "kr",
+      "spentAmount": 4600,
+      "availableAmount": 5400,
+      "createdAt": "2023-01-20T08:30:00.000Z",
+      "updatedAt": "2023-01-20T08:30:00.000Z"
+    },
+    {
+      "id": "card-002",
+      "companyId": "company-002",
+      "cardNumber": "5555555555554444",
+      "cardHolder": "Jane Smith",
+      "expiryDate": "06/26",
+      "cvv": "456",
+      "status": "inactive",
+      "limit": 15000,
+      "currency": "kr",
+      "spentAmount": 10000,
+      "availableAmount": 5000,
+      "createdAt": "2023-02-25T09:45:00.000Z",
+      "updatedAt": "2023-02-25T09:45:00.000Z"
+    },
+    {
+      "id": "card-003",
+      "companyId": "company-003",
+      "cardNumber": "3700000000000002",
+      "cardHolder": "Robert Johnson",
+      "expiryDate": "09/27",
+      "cvv": "789",
+      "status": "blocked",
+      "limit": 20000,
+      "currency": "kr",
+      "spentAmount": 18000,
+      "availableAmount": 2000,
+      "createdAt": "2023-03-15T10:30:00.000Z",
+      "updatedAt": "2023-03-15T10:30:00.000Z"
+    }
+  ]
