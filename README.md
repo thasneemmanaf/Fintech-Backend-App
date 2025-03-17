@@ -21,6 +21,7 @@ This repository contains the backend implementation for a Fintech application, p
 - **JWT**: Authentication and authorization
 - **Swagger/OpenAPI**: API documentation
 - **Ajv**: Request validation
+- **Supertest**: Automated tests
 
 ## API Endpoints
 
